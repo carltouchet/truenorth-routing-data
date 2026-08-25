@@ -14,6 +14,18 @@
       ]
     },
     {
+      "id": "routing:alaska",
+      "name": "Alaska (US)",
+      "file": "north-america-us-alaska-tiles.tar",
+      "bytes": 59760640,
+      "bbox": [
+        -178.1945,
+        51.6037,
+        -130.0141,
+        71.4077
+      ]
+    },
+    {
       "id": "routing:north-america-us-connecticut-tiles.tar",
       "name": "Connecticut (US)",
       "file": "north-america-us-connecticut-tiles.tar",
