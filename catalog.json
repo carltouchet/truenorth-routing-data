@@ -36,6 +36,18 @@
         6.2428,
         50.1281
       ]
+    },
+    {
+      "id": "routing:columbia",
+      "name": "columbia",
+      "file": "north-america-us-district-of-columbia-tiles.tar",
+      "bytes": 37365760,
+      "bbox": [
+        -180,
+        -85,
+        180,
+        85
+      ]
     }
   ]
 }
