@@ -98,6 +98,18 @@
       ]
     },
     {
+      "id": "routing:florida",
+      "name": "Florida (US)",
+      "file": "north-america-us-florida-tiles.tar",
+      "bytes": 1127772160,
+      "bbox": [
+        -87.6074,
+        24.5423,
+        -80.0413,
+        31.0017
+      ]
+    },
+    {
       "id": "routing:luxembourg-tiles.tar",
       "name": "Luxembourg",
       "file": "luxembourg-tiles.tar",
