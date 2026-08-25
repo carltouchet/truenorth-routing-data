@@ -2,7 +2,7 @@
   "version": 1,
   "regions": [
     {
-      "id": "routing:connecticut",
+      "id": "routing:north-america-us-connecticut-tiles.tar",
       "name": "Connecticut (US)",
       "file": "north-america-us-connecticut-tiles.tar",
       "bytes": 219054080,
@@ -14,7 +14,7 @@
       ]
     },
     {
-      "id": "routing:delaware",
+      "id": "routing:north-america-us-delaware-tiles.tar",
       "name": "Delaware (US)",
       "file": "north-america-us-delaware-tiles.tar",
       "bytes": 53708800,
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "id": "routing:luxembourg",
+      "id": "routing:luxembourg-tiles.tar",
       "name": "Luxembourg",
       "file": "luxembourg-tiles.tar",
       "bytes": 43376640,
@@ -38,27 +38,27 @@
       ]
     },
     {
-      "id": "routing:columbia",
-      "name": "columbia",
-      "file": "north-america-us-district-of-columbia-tiles.tar",
-      "bytes": 37365760,
-      "bbox": [
-        -180,
-        -85,
-        180,
-        85
-      ]
-    },
-    {
-      "id": "routing:island",
-      "name": "island",
+      "id": "routing:north-america-us-rhode-island-tiles.tar",
+      "name": "Rhode Island (US)",
       "file": "north-america-us-rhode-island-tiles.tar",
       "bytes": 52480000,
       "bbox": [
-        -180,
-        -85,
-        180,
-        85
+        -71.8424,
+        41.3309,
+        -71.2321,
+        42.0169
+      ]
+    },
+    {
+      "id": "routing:north-america-us-district-of-columbia-tiles.tar",
+      "name": "Washington, D.C. area",
+      "file": "north-america-us-district-of-columbia-tiles.tar",
+      "bytes": 37365760,
+      "bbox": [
+        -77.12,
+        38.79,
+        -76.9,
+        38.99
       ]
     }
   ]
