@@ -1,0 +1,17 @@
+{
+  "version": 8,
+  "name": "TrueNorth Satellite (Sentinel-2)",
+  "sources": {
+    "satellite": {
+      "type": "raster",
+      "tiles": ["https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2024_3857/default/g/{z}/{y}/{x}.jpg"],
+      "tileSize": 256,
+      "maxzoom": 14,
+      "attribution": "Sentinel-2 cloudless © EOX (CC BY 4.0)"
+    }
+  },
+  "layers": [
+    { "id": "bg", "type": "background", "paint": { "background-color": "#0b0e12" } },
+    { "id": "satellite", "type": "raster", "source": "satellite", "paint": { "raster-fade-duration": 300 } }
+  ]
+}
