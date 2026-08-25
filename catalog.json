@@ -122,6 +122,18 @@
       ]
     },
     {
+      "id": "routing:hawaii",
+      "name": "Hawaii (US)",
+      "file": "north-america-us-hawaii-tiles.tar",
+      "bytes": 41758720,
+      "bbox": [
+        -177.3905,
+        18.9639,
+        -154.8042,
+        28.2212
+      ]
+    },
+    {
       "id": "routing:luxembourg-tiles.tar",
       "name": "Luxembourg",
       "file": "luxembourg-tiles.tar",
