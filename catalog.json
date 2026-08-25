@@ -134,6 +134,18 @@
       ]
     },
     {
+      "id": "routing:idaho",
+      "name": "Idaho (US)",
+      "file": "north-america-us-idaho-tiles.tar",
+      "bytes": 223836160,
+      "bbox": [
+        -117.2017,
+        42.0006,
+        -111.0503,
+        48.9931
+      ]
+    },
+    {
       "id": "routing:luxembourg-tiles.tar",
       "name": "Luxembourg",
       "file": "luxembourg-tiles.tar",
