@@ -110,6 +110,18 @@
       ]
     },
     {
+      "id": "routing:georgia",
+      "name": "Georgia",
+      "file": "north-america-us-georgia-tiles.tar",
+      "bytes": 605460480,
+      "bbox": [
+        39.955,
+        41.0644,
+        46.6379,
+        43.5531
+      ]
+    },
+    {
       "id": "routing:luxembourg-tiles.tar",
       "name": "Luxembourg",
       "file": "luxembourg-tiles.tar",
