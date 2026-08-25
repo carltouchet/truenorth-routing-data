@@ -50,6 +50,18 @@
       ]
     },
     {
+      "id": "routing:colorado",
+      "name": "Colorado (US)",
+      "file": "north-america-us-colorado-tiles.tar",
+      "bytes": 499097600,
+      "bbox": [
+        -109.0467,
+        37.0008,
+        -102.0128,
+        41.0009
+      ]
+    },
+    {
       "id": "routing:north-america-us-connecticut-tiles.tar",
       "name": "Connecticut (US)",
       "file": "north-america-us-connecticut-tiles.tar",
