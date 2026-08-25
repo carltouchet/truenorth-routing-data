@@ -38,6 +38,18 @@
       ]
     },
     {
+      "id": "routing:arkansas",
+      "name": "Arkansas (US)",
+      "file": "north-america-us-arkansas-tiles.tar",
+      "bytes": 222720000,
+      "bbox": [
+        -94.6184,
+        33.012,
+        -89.6889,
+        36.5009
+      ]
+    },
+    {
       "id": "routing:north-america-us-connecticut-tiles.tar",
       "name": "Connecticut (US)",
       "file": "north-america-us-connecticut-tiles.tar",
