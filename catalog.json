@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "regions": [
+    {
+      "id": "routing:luxembourg",
+      "name": "Luxembourg",
+      "file": "luxembourg-tiles.tar",
+      "bytes": 43376640,
+      "bbox": [
+        5.6741,
+        49.4427,
+        6.2428,
+        50.1281
+      ]
+    }
+  ]
+}
