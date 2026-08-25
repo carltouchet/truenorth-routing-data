@@ -2,6 +2,18 @@
   "version": 1,
   "regions": [
     {
+      "id": "routing:alabama",
+      "name": "Alabama (US)",
+      "file": "north-america-us-alabama-tiles.tar",
+      "bytes": 302991360,
+      "bbox": [
+        -88.4862,
+        30.2309,
+        -84.9215,
+        35.025
+      ]
+    },
+    {
       "id": "routing:north-america-us-connecticut-tiles.tar",
       "name": "Connecticut (US)",
       "file": "north-america-us-connecticut-tiles.tar",
