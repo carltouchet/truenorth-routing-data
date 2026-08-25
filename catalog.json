@@ -2,6 +2,18 @@
   "version": 1,
   "regions": [
     {
+      "id": "routing:connecticut",
+      "name": "Connecticut (US)",
+      "file": "north-america-us-connecticut-tiles.tar",
+      "bytes": 219054080,
+      "bbox": [
+        -73.723,
+        40.9919,
+        -71.7958,
+        42.0556
+      ]
+    },
+    {
       "id": "routing:luxembourg",
       "name": "Luxembourg",
       "file": "luxembourg-tiles.tar",
