@@ -48,6 +48,18 @@
         180,
         85
       ]
+    },
+    {
+      "id": "routing:island",
+      "name": "island",
+      "file": "north-america-us-rhode-island-tiles.tar",
+      "bytes": 52480000,
+      "bbox": [
+        -180,
+        -85,
+        180,
+        85
+      ]
     }
   ]
 }
