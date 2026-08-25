@@ -146,6 +146,18 @@
       ]
     },
     {
+      "id": "routing:illinois",
+      "name": "Illinois (US)",
+      "file": "north-america-us-illinois-tiles.tar",
+      "bytes": 798924800,
+      "bbox": [
+        -91.5017,
+        36.9921,
+        -87.0391,
+        42.513
+      ]
+    },
+    {
       "id": "routing:luxembourg-tiles.tar",
       "name": "Luxembourg",
       "file": "luxembourg-tiles.tar",
