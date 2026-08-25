@@ -26,6 +26,18 @@
       ]
     },
     {
+      "id": "routing:arizona",
+      "name": "Arizona (US)",
+      "file": "north-america-us-arizona-tiles.tar",
+      "bytes": 480901120,
+      "bbox": [
+        -114.836,
+        31.3242,
+        -109.0467,
+        37.0042
+      ]
+    },
+    {
       "id": "routing:north-america-us-connecticut-tiles.tar",
       "name": "Connecticut (US)",
       "file": "north-america-us-connecticut-tiles.tar",
