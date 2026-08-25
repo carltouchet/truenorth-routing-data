@@ -14,6 +14,18 @@
       ]
     },
     {
+      "id": "routing:delaware",
+      "name": "Delaware (US)",
+      "file": "north-america-us-delaware-tiles.tar",
+      "bytes": 53708800,
+      "bbox": [
+        -75.7847,
+        38.4549,
+        -75.0359,
+        39.8434
+      ]
+    },
+    {
       "id": "routing:luxembourg",
       "name": "Luxembourg",
       "file": "luxembourg-tiles.tar",
